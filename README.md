@@ -72,5 +72,5 @@ The output will contain the S3 static site URL. Or use the one below:
 🧼 To Destroy the Resources
 terraform destroy
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
