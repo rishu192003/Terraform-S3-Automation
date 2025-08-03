@@ -63,7 +63,7 @@ terraform apply
 Type yes to confirm
 
 Wait for Terraform to complete provisioning
-
+```
 5. Visit the Website
 The output will contain the S3 static site URL. Or use the one below:
 
